@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessControl", "AccessControl\AccessControl.csproj", "{D38522FB-3FDC-406E-A782-1A4E1F8BACBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessApi", "AccessApi\AccessApi.csproj", "{23E7A044-6DF1-4655-A861-2E85A65A8203}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D38522FB-3FDC-406E-A782-1A4E1F8BACBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D38522FB-3FDC-406E-A782-1A4E1F8BACBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D38522FB-3FDC-406E-A782-1A4E1F8BACBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D38522FB-3FDC-406E-A782-1A4E1F8BACBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23E7A044-6DF1-4655-A861-2E85A65A8203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23E7A044-6DF1-4655-A861-2E85A65A8203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23E7A044-6DF1-4655-A861-2E85A65A8203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23E7A044-6DF1-4655-A861-2E85A65A8203}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BB48DB4-283B-4684-AD8A-05E93EB03A09}
+	EndGlobalSection
+EndGlobal
