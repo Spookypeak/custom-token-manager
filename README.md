@@ -7,7 +7,7 @@ I will soon upload the same example on another language.
 
 ## Version examples
 
-* [.NET Core](https://github.com/Spookypeak/custom-token-manager/net-core)
+* [.NET Core](https://github.com/Spookypeak/custom-token-manager/tree/master/net-core)
 This example uses an singleton to persist tokens. Each service reboot all tokens will be removed.
 
 
@@ -113,7 +113,7 @@ with or without authorization header
 http://localhost:28630/api/auth/02
 ```
 
-##See also
+## See also
 [Piotr Gankiewicz](https://github.com/spetz/tokenmanager-sample)
 This example is based on this other.
 This example uses [redis](https://redis.io/). 
